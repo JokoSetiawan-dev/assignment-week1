@@ -1,8 +1,9 @@
 # Hi!
 
-## About Me
-Aspiring to be a Software Engineer. I joined RevoU because i want switch my career from sales software engineer.
+## About this repo
+this is assignment week 1, make simple website used basic html, css and javascript.
 
 ## Link
 Deployment:
+
 Repository:
